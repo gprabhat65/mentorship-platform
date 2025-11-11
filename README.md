@@ -76,6 +76,9 @@ Core tables include:
 
 ## System Architecture
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5127fb0f-9fb9-4929-b78f-495096a8ed4b" />
+
+
 
 ---
 
